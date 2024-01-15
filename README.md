@@ -4,4 +4,5 @@
 <ul>
   <li> Tower Of Hanoi</li>
   <li> Print a string in reverse</li>
+  <li> Remove duplicates in a string </li>
 </ul>
