@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-class Sorting {
+class Bubble-Sort {
    public static void printArray(int arr[]) {
        for(int i=0; i<arr.length; i++) {
            System.out.print(arr[i]+" ");
