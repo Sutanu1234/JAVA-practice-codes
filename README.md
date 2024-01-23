@@ -20,3 +20,11 @@
   <li> Merge Sort  ...... Time Complexity: O(N2) </li>
   <li> Quick Sort  ...... Time Complexity .. Worst : O(n^2) .. Average : O(nlogn) </li>
 </ul>
+
+<br>
+
+<h3> Page 3 : contain ArrayLists prob and Sol</h3>
+<ul>
+  <li> Basic ArrayLists functions</li>
+  
+</ul>
