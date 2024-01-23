@@ -1,7 +1,7 @@
 # JAVA-practice-codes
 
-<h3> Page 3 : contain ArrayLists prob and Sol</h3>
+<h3> Page 3 : contain Some LeetCode prob and Sol</h3>
 <ul>
-  <li> Basic ArrayLists functions</li>
+  <li> Two Sum using hash map (* Time Complexity: O(n)    *Space Complexity: O(min(n, m)), n: length of array and m: number of elements needed to reach the target.)</li>
   
 </ul>
