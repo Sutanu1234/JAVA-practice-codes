@@ -14,9 +14,9 @@
 
 Example 1: Input: x = 123, Output: 321   
 Example 2: Input: x = -123, Output: -321   
-Example 3: Input: x = 120, Output: 21</li>
+Example 3: Input: x = 120, Output: 21
 
-<li>Given an integer x, return true if x is a palindrome, and false otherwise.</li>
+Given an integer x, return true if x is a palindrome, and false otherwise.</li>
 
 <li>Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 Notice that the solution set must not contain duplicate triplets.
