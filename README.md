@@ -29,4 +29,9 @@ nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.<br>
 nums[0] + nums[3] + nums[4] = (-1) + 2 + (-1) = 0.<br>
 The distinct triplets are [-1,0,1] and [-1,-1,2].<br>
 Notice that the order of the output and the order of the triplets does not matter.</li>
+
+<li>You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.Merge all the linked-lists into one sorted linked-list and return it.
+
+Example 1:  Input: lists = [[1,4,5],[1,3,4],[2,6]] Output: [1,1,2,3,4,4,5,6]<br>
+Example 2:  Input: lists = [] Output: []</li>
 </ul>
