@@ -34,4 +34,9 @@ Notice that the order of the output and the order of the triplets does not matte
 
 Example 1:  Input: lists = [[1,4,5],[1,3,4],[2,6]] Output: [1,1,2,3,4,4,5,6]<br>
 Example 2:  Input: lists = [] Output: []</li>
+
+<li>Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
+
+ Input: intersectVal = 8, listA = [4,1,8,4,5], listB = [5,6,1,8,4,5]
+ Output: Intersected at '8'</li>
 </ul>
